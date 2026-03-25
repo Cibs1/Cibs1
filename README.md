@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Computer Science, Machine Learning, Communication Networks, etc**
 
-- 💬 Ask me about **Databases, Machine Learning, Algorithm solving**
+- 💬 Ask me about **Deep Learning, Machine Learning, Algorithm solving**
 
 - 📫 How to reach me : **ricardojcr11@gmail.com**
 
