@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cibs1&label=Profile%20views&color=0e75b6&style=flat" alt="cibs1" /> </p>
 -🎓 I am currently pursuing a Master's degree in Computer Science at the Faculty of Sciences of the University of Porto.
 
-- 🌱 I’m currently learning **Computer Science, Machine Learning, Communication Networks, etc**
+- 🌱 I’m currently learning **Computer Science, Deep Learning, Data Science, etc**
 
 - 💬 Ask me about **Deep Learning, Machine Learning, Algorithm solving**
 
