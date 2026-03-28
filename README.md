@@ -5,16 +5,14 @@
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e479wa83h1s91kebrrot8d27lurqex56rv98k077y9d&ep=v1_gifs_search&rid=200.webp&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cibs1&label=Profile%20views&color=0e75b6&style=flat" alt="cibs1" /> </p>
--🎓 I am currently pursuing a degree in Computer Science at the Faculty of Sciences of the University of Porto.
+-🎓 I am currently pursuing a Master's degree in Computer Science at the Faculty of Sciences of the University of Porto.
 
 - 🌱 I’m currently learning **Computer Science, Machine Learning, Communication Networks, etc**
 
 - 💬 Ask me about **Deep Learning, Machine Learning, Algorithm solving**
 
 - 📫 How to reach me : **ricardojcr11@gmail.com**
-
-- 📄 Know about my experiences [https://bold.pro/my/ricardo-ribeiro-240122212148](https://bold.pro/my/ricardo-ribeiro-240122212148)
-
+- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ricardo-ribeiro-5140922b0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ricardo-ribeiro-5140922b0" height="30" width="40" /></a>
